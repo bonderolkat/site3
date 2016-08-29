@@ -17,7 +17,7 @@
 	color: #878787;
     font: 14px/20px 'Open Sans', sans-serif;
 	border: 1px solid #dfdede;
-    padding: 6px 27px 5px;
+    padding: 6px 10px 5px;
 
 }
 
@@ -38,7 +38,7 @@
 	color: #878787;
     font: 14px/20px 'Open Sans', sans-serif;
 	border: 1px solid #dfdede;
-    padding: 23px 27px 5px;
+    padding: 23px 10px 5px;
 }
 
 
@@ -50,7 +50,7 @@
 	color: #878787;
     font: 14px/20px 'Open Sans', sans-serif;
 	border: 0px solid transparent;
-    padding: 6px 27px 5px;
+    padding: 6px 10px 5px;
 	height: 31px !important;
 	width: 100% !important;
 	box-sizing: border-box;
